@@ -1,5 +1,5 @@
 - 👋 Olá, sou Jéssica Leal!
-- 🌱 Estudante de Análise e desenvolvimento de sistemas e Desesnvolvimento Web
+- 🌱 Estudante de Análise e desenvolvimento de sistemas e Desesnvolvimento Web.
 - 📫 Contate-me: jessicaaleal@outlook.com
 
 <div> 
